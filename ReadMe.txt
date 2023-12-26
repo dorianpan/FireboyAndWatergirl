@@ -12,3 +12,6 @@ Python libraries:
 
 Shortcuts:
 	Available shortcuts are indicated inside the game canvas.
+
+Copyright:
+	No part of this project, including source code, documentation, and related data, may be copied, modified, merged, published, distributed, sublicensed, and/or sold without the prior written permission of the author.
